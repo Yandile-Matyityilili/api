@@ -1,0 +1,74 @@
+[
+    {
+        "firstName":"Yandile",
+        "lastName":"Matyityilili",
+        "favHobby":"Playing sports",
+        "criminal":"false",
+        "dreamCars":[
+            {
+                "carName":"Mercede benz",
+                "engineCapacity":"2999 cc",
+                "model":"Mercedes benz GLE coupe"
+            },
+            {
+                "carName":"BMW",
+                "engineCapacity":"4400 cc",
+                "model":"BMW X7"
+            }
+        ]
+    },
+    {
+        "firstName":"Mila",
+        "lastName":"Ndinisa",
+        "favHobby":"Playing sports",
+        "criminal":"false",
+        "dreamCars":[
+            {
+                "carName":"Aston Martin",
+                "engineCapacity":"V8",
+                "model":"Aston Martin DB12"
+            },
+            {
+                "carName":"Porsche",
+                "engineCapacity":"Twin turbo charged",
+                "model":"911"
+            }
+        ]
+    },
+    {
+        "firstName":"Ibrahim",
+        "lastName":"Karlie",
+        "favHobby":"Sleeping",
+        "criminal":"true",
+        "dreamCars":[
+            {
+                "carName":"Citi Golf",
+                "engineCapacity":"MP9",
+                "model":"Velocity"
+            },
+            {
+                "carName":"Lamboghini Urus",
+                "engineCapacity":"V8",
+                "model":" Lamboghini Urus mansory"
+            }
+        ]
+    },
+    {
+        "firstName":"Abdul",
+        "lastName":"Felton",
+        "favHobby":"Watching sports",
+        "criminal":"false",
+        "dreamCars":[
+            {
+                "carName":"AMG c63",
+                "engineCapacity":"V8",
+                "model":"c63"
+            },
+            {
+                "carName":"Toyota",
+                "engineCapacity":"V8",
+                "model":"Toyota Landcruiser "
+            }
+        ]
+    }
+]
